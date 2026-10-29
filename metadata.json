@@ -1,0 +1,6 @@
+{
+  "name": "NairaSave",
+  "description": "A modern Nigerian savings goal application with Naira tracking, progress charts, deposits, transaction history, authentication, and admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

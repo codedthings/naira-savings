@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NairaSave</string>
+    <string name="tagline">Smart Nigerian Savings &amp; Goals</string>
+    <string name="currency_symbol">₦</string>
+</resources>
